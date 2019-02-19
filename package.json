@@ -1,0 +1,23 @@
+{
+  "name": "angularjs-web-worker",
+  "version": "1.0.0",
+  "description": "AngularJS Web Worker Test",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnateli/angularjs-web-worker.git"
+  },
+  "author": "Krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnateli/angularjs-web-worker/issues"
+  },
+  "homepage": "https://github.com/krishnateli/angularjs-web-worker#readme"
+}
